@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning rust and c
 - 💞️ I’m looking to collaborate on Wahy Lang
-- 📫 How to reach me ...
+- 📫 reach me on Discord ( fm.44 )
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love beans lol
 
