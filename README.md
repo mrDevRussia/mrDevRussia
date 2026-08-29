@@ -137,7 +137,6 @@ status     : open to collaboration
 
 ## stats
 
-<div align="center">
 
 
 <br/>
