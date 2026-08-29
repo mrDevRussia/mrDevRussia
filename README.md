@@ -140,8 +140,6 @@ status     : open to collaboration
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrDevRussia&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&v=1" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrDevRussia&layout=compact&theme=catppuccin_mocha&hide_border=true&v=1" width="35%"/>
 
 <br/>
 
@@ -153,9 +151,6 @@ status     : open to collaboration
 
 </div>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:cba6f7&height=3&width=100%"/>
 
 ## contact
 
