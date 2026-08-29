@@ -153,54 +153,7 @@ status     : open to collaboration
 
 </div>
 
-<details>
-<summary>contribution snake (click to set up)</summary>
 
-<br/>
-
-Generates automatically via a GitHub Action, no extra secrets required.
-
-1. In the `mrDevRussia/mrDevRussia` repo, go to **Settings → Actions → General** and make sure workflows have read/write permissions.
-2. Add `.github/workflows/snake.yml`:
-
-```yaml
-name: generate-snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: mrDevRussia
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ "{{ secrets.GITHUB_TOKEN }}" }}
-```
-
-3. Once it has run at least once, drop this in your README:
-
-```md
-![snake](https://raw.githubusercontent.com/mrDevRussia/mrDevRussia/output/snake-dark.svg)
-```
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:cba6f7&height=3&width=100%"/>
 
