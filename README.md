@@ -144,9 +144,6 @@ status     : open to collaboration
 <img src="https://streak-stats.demolab.com?user=mrDevRussia&theme=catppuccin-mocha&hide_border=true&v=1" width="70%"/>
 
 <br/><br/>
-
-
-
 </div>
 
 
