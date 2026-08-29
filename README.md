@@ -17,10 +17,9 @@
 
 <br/>
 
-<!-- Azusa Nakano GIF aligned to the right of the terminal -->
-<a href="#"><img src="https://media.tenor.com/L-gQo2N1qQcAAAAj/azusa-nakano-k-on.gif" width="130" align="right" alt="Azusa Nakano"></a>
+<img align="right" src="https://c.tenor.com/L-gQo2N1qQcAAAAj/azusa-nakano-k-on.gif" width="130" alt="Azusa" />
 
-```
+```text
 karim@mrdevrussia
 ──────────────────
 os         : egypt linux
@@ -135,23 +134,22 @@ status     : open to collaboration
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:cba6f7&height=3&width=100%"/>
 
-<!-- Rem GIF aligned to the left of the stats -->
-<a href="#"><img src="https://media.tenor.com/rM1iCq2m3QkAAAAj/rem-re-zero.gif" width="120" align="left" alt="Rem"></a>
+<img align="left" src="https://c.tenor.com/rM1iCq2m3QkAAAAj/rem-re-zero.gif" width="120" alt="Rem" />
 
 ## stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrDevRussia&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrDevRussia&layout=compact&theme=catppuccin_mocha&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrDevRussia&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&v=1" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrDevRussia&layout=compact&theme=catppuccin_mocha&hide_border=true&v=1" width="35%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mrDevRussia&theme=catppuccin-mocha&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=mrDevRussia&theme=catppuccin-mocha&hide_border=true&v=1" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrDevRussia&theme=react-dark&hide_border=true&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrDevRussia&theme=react-dark&hide_border=true&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&v=1" width="90%"/>
 
 </div>
 
