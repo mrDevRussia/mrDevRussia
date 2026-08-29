@@ -95,7 +95,7 @@ status     : open to collaboration
 <td width="70%">
 
 **[bedrock](https://github.com/mrDevRussia/BedRock-Language-Open-Source)**
-<br/>minimalist bare-metal systems language, built for mips32
+<br/>minimalist bare-metal systems language
 
 </td>
 <td width="30%" align="right">
@@ -122,7 +122,6 @@ status     : open to collaboration
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:cba6f7&height=3&width=100%"/>
 
 ## stack
 
@@ -147,7 +146,7 @@ status     : open to collaboration
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrDevRussia&theme=react-dark&hide_border=true&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&v=1" width="90%"/>
+
 
 </div>
 
